@@ -7,5 +7,3 @@
 - 👯 I’m looking to collaborate on any Open source program I'm capable of. 
 - 📫 How to reach me: Mail me alshahriar.me@gmail.com 
 - ⚡ Fun fact: I like anthropology.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazKun&layout=compact)
